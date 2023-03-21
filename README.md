@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedaryf
+- 👋 Hi, I’m Ahmed Areef
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning react
 

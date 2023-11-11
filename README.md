@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Ahmed Areef
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning react
+🚀 React JS Developer 🌟
+🧑‍💻 Crafting with Next.js & TailwindCSS ✨
+🌐 Making the web come alive, one component at a time! 🖥️
 
-
-<!---
-ahmedaryf/ahmedaryf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

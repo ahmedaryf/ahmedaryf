@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Ahmed Areef
-- 👀 I’m interested in front end development
-🚀 React JS Developer 🌟
-🧑‍💻 Crafting with Next.js & TailwindCSS ✨
-🌐 Making the web come alive, one component at a time! 🖥️
-
+Hi, I’m Ahmed Areef
+Full Stack Developer working with Next.js & TailwindCSS
+Developing real-world solutions with modern web technologies
